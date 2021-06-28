@@ -1,10 +1,10 @@
-# Unichat Application
+# Unichat Application (Messanger)
 
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+This is a code repository for the Unichat messanger, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
 
 You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
 
